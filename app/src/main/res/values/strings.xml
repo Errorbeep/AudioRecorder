@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="start_recording">Record</string>
+    <string name="stop_recording">StopRecord</string>
+    <string name="play_recording">Play</string>
+    <string name="stop_playing">StopPlay</string>
+    <string name="recording">Recording</string>
+    <string name="rfinished">Recording Finished</string>
+    <string name="pfinished">Playing Finished</string>
+    <string name="playing">Playing</string>
+    <string name="paused">Paused</string>
+    <string name="waiting">Waiting</string>
+</resources>
